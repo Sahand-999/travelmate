@@ -6,7 +6,7 @@ package travelmate;
 
 public class activity extends attraction {
     private String activityType;
-    private int duration;  // Duration in hours
+    private int duration; 
 
     public activity(int id, String name, city city, String address, String activityType, int duration) {
         super(id, name, city, address);
