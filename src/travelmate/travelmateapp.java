@@ -19,7 +19,7 @@ public class travelmateapp {
             int cityChoice = scanner.nextInt();
 
             if (cityChoice == cities.length + 1) {
-                System.out.println("exiting the program. goodbye!");
+                System.out.println("exiting the program.");
                 break;
             }
 
