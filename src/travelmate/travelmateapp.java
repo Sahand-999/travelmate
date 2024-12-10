@@ -78,6 +78,6 @@ public class travelmateapp {
             }
         }
 
-        scanner.close();
+   
     }
 }
